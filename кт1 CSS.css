@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Angkor&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anek+Gujarati:wght@100..800&display=swap');
+.flexbox1{
+display: flex;
+justify-content: space-between;
+padding-right: 100px;
+padding-left: 100px;
+padding-top: 25px;
+align-items: left;
+background-color: #0E0000;
+ }
+.logo{
+  padding-right: 500px;
+  font-family:Angkor;
+  font-size: 24px;
+  color: #EFEACD;
+}
+.menu1, .menu2, .menu3, .menu4{
+  font-family:Anek Gujarati;
+  font-size: 18px;
+  color: #EFEACD;
+  padding-top: 10px;
+}
+.flexbox2{
+background-color: #0E0000;
+background-image: url(https://i.pinimg.com/736x/9a/64/16/9a64160c23c6fd8a2da7c332c901d65b.jpg);
+}
